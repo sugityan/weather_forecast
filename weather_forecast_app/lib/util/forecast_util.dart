@@ -2,7 +2,7 @@ import 'package:intl/intl.dart';
 
 class Util {
   // never change
-  // static String appId = "Your own appId"
+  static String appId = "Your own appId"
 
   static String getFormattedDate(DateTime dateTime) {
 
