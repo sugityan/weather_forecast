@@ -8,5 +8,5 @@ To see your apiKey, push below link and get your ApiKey<br>
 https://home.openweathermap.org/api_keys
 
 
-If you want to know how to get API payload, go to weather_forecast_app/lib/network/network.dart file.<br>
+If you want to know how to get API payload, go to weather_forecast_app/lib/network/network.dart.<br>
 In there, you can see how to get API
